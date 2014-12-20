@@ -1,7 +1,7 @@
  <% content_for :title do %>Byron Johnson <% end %>
  <% content_for :description do %>Website of Byron Johnson<% end %>
    <section>
-      <%= image_tag "girls_new.jpeg" %>
+      <img src="https://www.dropbox.com/s/4laybejeegpwwus/girls_new.jpg?dl=0">
    </section>
    <section>
        <div class="column">
