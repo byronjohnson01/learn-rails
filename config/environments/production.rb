@@ -89,6 +89,8 @@ Rails.application.configure do
     password: Rails.application.secrets.email_provider_password
   }
 
+  # route www 
+  config.middleware.use "WwwMiddleware"
 
 
 end
