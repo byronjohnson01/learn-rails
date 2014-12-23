@@ -1,0 +1,7 @@
+<% content_for :title do %> About <%end%>
+<h3>Byron Johnson</h3> 
+<p>Lives in Denver, CO</p> 
+<p>Favorite Food is: Spaghetti</p> 
+<p>Hobbys: Snowboarding, Concerts, Craft Beer</p>
+
+
